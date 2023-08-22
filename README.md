@@ -28,3 +28,7 @@ Fud Rat Builder &amp; Open SRC
 - - - - 
 
                                            MMLo7 HVNC Coming Soon😏
+
+MMLo7 Trojan Scan:
+![image](https://github.com/M6YR/MMLo7-Rat/assets/117858901/65d8cfb7-fdc9-4efb-b273-521aa9a17edd)
+
